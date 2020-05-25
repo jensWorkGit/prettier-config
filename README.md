@@ -1,4 +1,4 @@
-# `@jensWorkGit/prettier-config`
+# `@jensatnpm/prettier-config`
 
 > My personal [Prettier](https://prettier.io) config.
 
@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ npm install --save-dev @jho/prettier-config
+$ npm install --save-dev @jensatnpm/prettier-config
 ```
 
 **Edit `package.json`**:
