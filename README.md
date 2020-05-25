@@ -15,6 +15,6 @@ $ npm install --save-dev @jho/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@jho/prettier-config"
+  "prettier": "@jensatnpm/prettier-config"
 }
 ```
