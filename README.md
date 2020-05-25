@@ -1,4 +1,4 @@
-# `@azz/prettier-config`
+# `@jensWorkGit/prettier-config`
 
 > My personal [Prettier](https://prettier.io) config.
 
@@ -15,6 +15,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@jensWorkGit/prettier-config"
 }
 ```
